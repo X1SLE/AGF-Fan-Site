@@ -1,0 +1,25 @@
+
+
+.AGF-Logo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1.AGF-Logo{
+    color: rgb(48, 48, 160);
+}
+
+h3.AGF-Logo{
+    color: rgb(0, 0, 0);
+}
+
+.WIP {
+    background-color: rgb(100, 100, 100);
+}
+
+p.WIP {
+    color: white;
+}
+
+.AGS-logo {
+    width: 10%;
+}
